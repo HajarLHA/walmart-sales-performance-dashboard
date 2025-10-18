@@ -32,7 +32,8 @@ The dashboard was built using the **Walmart Weekly Sales Dataset**, a publicly a
   - `Temperature` – Average temperature for the week (°F)  
   - `Fuel_Price` – Average fuel cost for the week  
   - `CPI` – Consumer Price Index for the region  
-  - `Unemployment` – Unemployment rate for the region   
+  - `Unemployment` – Unemployment rate for the region
+    
 📥 The dataset can be downloaded from: (https://www.kaggle.com/datasets/yasserh/walmart-dataset).
 
 ---
@@ -68,6 +69,7 @@ The dashboard was built using the **Walmart Weekly Sales Dataset**, a publicly a
 
 ---
 👩‍💻 Created by *Hajar Lhamyani* – Data Scientist & Analyst | Machine Learning Engineer
+
 
 
 
