@@ -13,8 +13,8 @@ It helps explore how different factors such as store location, year, and holiday
 walmart-sales-performance-dashboard/
 │
 ├── dashboard/      #Power BI file & exported dashboard
-├── data/              #dataset
-└── README.md                          # Project documentation
+├── data/           #dataset
+└── README.md       #Project documentation
 ```
 
 ---
@@ -70,3 +70,4 @@ The dashboard was built using the **Walmart Weekly Sales Dataset**, a publicly a
 
 ---
 👩‍💻 Created by *Hajar Lhamyani* – Data Scientist & Analyst | Machine Learning Engineer
+
