@@ -11,7 +11,7 @@ It helps explore how different factors such as store location, year, and holiday
 
 ```
 ├── dashboard/      #Power BI file & exported dashboard
-├── data/           #dataset
+├── dataset/           #dataset
 └── README.md       #Project documentation
 ```
 
@@ -68,5 +68,6 @@ The dashboard was built using the **Walmart Weekly Sales Dataset**, a publicly a
 
 ---
 👩‍💻 Created by *Hajar Lhamyani* – Data Scientist & Analyst | Machine Learning Engineer
+
 
 
